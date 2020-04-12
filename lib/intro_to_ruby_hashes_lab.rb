@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  hash = {:favorite_color => "blue"}
+  {:favorite_color => "blue"}
 end
 
 def pioneer
